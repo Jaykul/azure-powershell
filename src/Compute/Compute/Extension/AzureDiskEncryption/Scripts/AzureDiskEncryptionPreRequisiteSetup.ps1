@@ -1,5 +1,5 @@
-﻿#Requires -Module AzureRM.Resources
-#Requires -Module AzureRM.KeyVault
+#Requires -Module Az.Resources
+#Requires -Module Az.KeyVault
 
 Param(
   [Parameter(Mandatory = $true, 
